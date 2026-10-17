@@ -1,0 +1,11 @@
+Dataset,Column 1,Column 2,Correlation
+Marketing Interactions,marketing_cost,conversion_revenue,0.000503374179040591
+Orders,qty,discount_pct,0.004929772108494143
+Orders,qty,list_price,0.006363809480316204
+Orders,qty,amount,0.5703796386065525
+Orders,discount_pct,list_price,-0.0020530360869700443
+Orders,discount_pct,amount,-0.1226709348209861
+Orders,list_price,amount,0.7301329218504012
+Product Usage,session_duration_seconds,pages_viewed,0.0002255237174104729
+Products,unit_cost,list_price,0.916401773501412
+Support Tickets,resolution_time_hours,satisfaction_score,-0.005046225693022798

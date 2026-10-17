@@ -1,0 +1,60 @@
+Dataset,Column,Null Count,Null Percentage
+CRM Customers,crm_id,0,0.0
+CRM Customers,full_name,0,0.0
+CRM Customers,email,0,0.0
+CRM Customers,phone,0,0.0
+CRM Customers,city,0,0.0
+CRM Customers,channel,0,0.0
+CRM Customers,plan,0,0.0
+CRM Customers,signup_date,0,0.0
+Customer ID Map,mapping_id,0,0.0
+Customer ID Map,customer_id,0,0.0
+Customer ID Map,source_system,0,0.0
+Customer ID Map,external_customer_id,0,0.0
+Customer ID Map,id_type,0,0.0
+Customer ID Map,mapping_created_date,0,0.0
+Marketing Interactions,interaction_id,0,0.0
+Marketing Interactions,customer_id,0,0.0
+Marketing Interactions,interaction_timestamp,0,0.0
+Marketing Interactions,campaign_name,0,0.0
+Marketing Interactions,interaction_type,0,0.0
+Marketing Interactions,channel,0,0.0
+Marketing Interactions,marketing_cost,0,0.0
+Marketing Interactions,conversion_revenue,0,0.0
+Orders,order_id,0,0.0
+Orders,shop_cust_id,0,0.0
+Orders,order_date,0,0.0
+Orders,product_id,0,0.0
+Orders,qty,0,0.0
+Orders,discount_pct,0,0.0
+Orders,status,0,0.0
+Orders,list_price,0,0.0
+Orders,amount,0,0.0
+Payments,payment_id,0,0.0
+Payments,order_id,0,0.0
+Payments,billing_cust_id,0,0.0
+Payments,pay_date,0,0.0
+Payments,method,0,0.0
+Payments,status,0,0.0
+Product Usage,event_id,0,0.0
+Product Usage,customer_id,0,0.0
+Product Usage,event_timestamp,0,0.0
+Product Usage,event_type,0,0.0
+Product Usage,device_type,0,0.0
+Product Usage,operating_system,0,0.0
+Product Usage,session_duration_seconds,0,0.0
+Product Usage,pages_viewed,0,0.0
+Products,product_id,0,0.0
+Products,product_name,0,0.0
+Products,category,0,0.0
+Products,unit_cost,0,0.0
+Products,list_price,0,0.0
+Support Tickets,ticket_id,0,0.0
+Support Tickets,customer_id,0,0.0
+Support Tickets,created_date,0,0.0
+Support Tickets,ticket_category,0,0.0
+Support Tickets,priority,0,0.0
+Support Tickets,channel,0,0.0
+Support Tickets,status,0,0.0
+Support Tickets,resolution_time_hours,0,0.0
+Support Tickets,satisfaction_score,0,0.0

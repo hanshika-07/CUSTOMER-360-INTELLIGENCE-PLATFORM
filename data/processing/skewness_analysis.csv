@@ -1,0 +1,14 @@
+Dataset,Column,Skewness,Interpretation
+CRM Customers,phone,0.6732651391471789,Moderately right skewed
+Marketing Interactions,marketing_cost,0.7476012202070202,Moderately right skewed
+Marketing Interactions,conversion_revenue,3.324480031529501,Highly right skewed
+Orders,qty,-0.0009813621150313442,Approximately symmetric
+Orders,discount_pct,0.43079384482222904,Approximately symmetric
+Orders,list_price,0.3025692472641554,Approximately symmetric
+Orders,amount,1.1625020052579225,Highly right skewed
+Product Usage,session_duration_seconds,-0.0025199185640783265,Approximately symmetric
+Product Usage,pages_viewed,0.000671043721846781,Approximately symmetric
+Products,unit_cost,-0.05275026808763764,Approximately symmetric
+Products,list_price,0.3067470153462342,Approximately symmetric
+Support Tickets,resolution_time_hours,0.0033801536257488936,Approximately symmetric
+Support Tickets,satisfaction_score,-0.8228092442499232,Moderately left skewed

@@ -1,0 +1,4 @@
+Dataset,Column 1,Column 2,Correlation
+Orders,qty,amount,0.5703796386065525
+Orders,list_price,amount,0.7301329218504012
+Products,unit_cost,list_price,0.916401773501412

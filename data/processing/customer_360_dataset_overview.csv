@@ -1,0 +1,9 @@
+Dataset,Rows,Columns,Numeric Columns,Text Columns,Missing Values,Duplicate Rows
+CRM Customers,20800,8,1,7,0,0
+Customer ID Map,90000,6,0,6,0,0
+Marketing Interactions,150000,8,2,6,0,0
+Orders,120000,9,4,5,0,0
+Payments,120000,6,0,6,0,0
+Product Usage,300000,8,2,6,0,0
+Products,200,5,2,3,0,0
+Support Tickets,35000,9,2,7,0,0
